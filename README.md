@@ -2,7 +2,7 @@
   Clone do Twitter feito com React, HTML5, CSS3 e Typescript!
 </h3>
 <p align="center">
-<img alt="calculadora" src="imgcalcimc.gif" /></img>
+<img alt="calculadora" src="Captura de Tela Twitter.png" /></img>
 </p>
 <p align="center"> Feito por: Patrick Feltrin </p>
 <p align="center">
@@ -19,6 +19,8 @@
 
 - [X] Interação entre páginas (New Tweet e Resposta)
 
+- [X] Responsividade aplicada para dispositivos móveis
+
 ## Como funciona
 
-<img alt="calculadora" src="captura-twitter.gif" />
+<img alt="calculadora" src="captura-gif-twitter.gif" />
