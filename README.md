@@ -24,3 +24,5 @@
 ## Como funciona
 
 <img alt="calculadora" src="captura-gif-twitter.gif" />
+
+<p> Confira em: https://ui-twitter-pfeltrin.vercel.app/ </p>
