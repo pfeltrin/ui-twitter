@@ -25,4 +25,6 @@
 
 <img alt="calculadora" src="captura-gif-twitter.gif" />
 
-<p> Confira em: https://ui-twitter-pfeltrin.vercel.app/ </p>
+<p align="center">
+  Faça um teste clicando <a href="https://ui-twitter-pfeltrin.vercel.app/">AQUI</a>  
+</p>
